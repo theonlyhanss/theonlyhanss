@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td align="left" style="padding=0;">
-<a href="https://saweria.co/hansxyz">
+<a href="https://discord.gg/cSRn8yj8Tn">
 <img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=theonlyhanss&color=84ADEF" alt="GitHub Profile views" />
 </a>
 </td>
