@@ -38,5 +38,3 @@ A Human from Earth, and just call me as Hans.
     </td>
   </tr>
 </table>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mochidex)
