@@ -38,3 +38,7 @@ A Human from Earth, and just call me as Hans.
     </td>
   </tr>
 </table>
+
+<p align="center"> 
+  <a href="https://open.spotify.com/user/31s6incogp6be7lfavlgh57cswqm" target="_blank"> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31s6incogp6be7lfavlgh57cswqm"/> </a> 
+</p>
