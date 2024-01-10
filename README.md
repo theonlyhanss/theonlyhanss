@@ -31,7 +31,7 @@ A Human from Earth, and just call me as Hans.
       <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/?username=theonlyhanss&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=84ADEF&hide_title=true&count_private=true" />
 </a>
     </td>
-    <td align="left" style="padding=0;width=50%;">
+    <td align="center" style="padding=0;width=50%;">
 <a href="#">
       <img align="center" style="padding=0;" src="https://grs.quantumly.dev/api/top-langs/?username=theonlyhanss&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
 </a>
