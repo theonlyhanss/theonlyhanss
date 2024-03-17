@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td>
-A Human from Earth, and just call me as Hans.
+A Human from Earth, and just call me as Han.
 </td>
 </tr>
 </table>
