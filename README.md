@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td align="left" style="padding=0;">
-<a href="https://discord.gg/cSRn8yj8Tn">
+<a href="https://discord.gg/831">
 <img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=theonlyhanss&color=84ADEF" alt="GitHub Profile views" />
 </a>
 </td>
@@ -17,8 +17,8 @@ A Human from Earth, and just call me as Han.
 <table>
 <tr>
 <td align="left" style="padding=0;">
-<a href="https://saweria.co/hansxyz">
-    <img align="center" style="padding=0;" src="https://lanyard.cnrad.dev/api/917913229668274186?bg=transparent&idleMessage=I%20like%20to%20do%20something%20before%20others%20do%20it" alt="Discord Profile: xyzhans#5826"/>
+<a href="https://saweria.co/hanmetaforce">
+    <img align="center" style="padding=0;" src="https://lanyard.kyrie25.me/api/917913229668274186?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=84ADEF&idleMessage=go%20to%20the%20moon%20and%20back&imgStyle=dark"/>
 </a>
 </td>
 </tr>
