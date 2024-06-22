@@ -39,5 +39,5 @@ A Human from Earth, and just call me as Han.
   </tr>
 </table>
 <p align="center">
-<a href="https://dev.eugenbot.xyz/api/now-playing?open=yes">
-  <img src="https://dev.eugenbot.xyz/api/now-playing" width="356" height="104" alt="Now Playing"/>
+<a href="https://spotify-xin.vercel.app/api/now-playing?open=yes">
+  <img src="https://spotify-xin.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing"/>
