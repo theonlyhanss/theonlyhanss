@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td align="left" style="padding=0;">
-<a href="https://discord.gg/831">
+<a href="https://saweria.co/hanmetaforce">
 <img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=theonlyhanss&color=84ADEF" alt="GitHub Profile views" />
 </a>
 </td>
@@ -10,7 +10,7 @@
 <table>
 <tr>
 <td>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F7F7F7&random=false&width=435&lines=A+Human+from+Erth,+and+just+call+me+as+Han." alt="hanmetaforce" /></a>
+<a href="https://saweria.co/hanmetaforce"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F7F7F7&random=false&width=435&lines=A+Human+from+Erth,+and+just+call+me+as+Han." alt="hanmetaforce" /></a>
 </td>
 </tr>
 </table>
