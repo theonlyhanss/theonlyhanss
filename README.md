@@ -42,9 +42,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://spotify-xin.vercel.app/api/now-playing?open=yes">
-    <img src="https://spotify-xin.vercel.app/api/now-playing" width="356" height="104" alt="Now Playing" />
-  </a>
-</p>
