@@ -22,7 +22,7 @@
   <tr>
     <td align="left" style="padding: 0;">
       <a href="https://saweria.co/hanmetaforce">
-        <img align="center" style="padding: 0;" src="https://lanyard.kyrie25.me/api/917913229668274186?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=84ADEF&idleMessage=go%20to%20the%20moon%20and%20back&imgStyle=dark" />
+        <img align="center" style="padding: 0;" src="https://api.lanyard.rest/v1/users/917913229668274186" />
       </a>
     </td>
   </tr>
