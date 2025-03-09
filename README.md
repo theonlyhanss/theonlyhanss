@@ -22,7 +22,7 @@
   <tr>
     <td align="left" style="padding: 0;">
       <a href="https://saweria.co/hanmetaforce">
-        <img align="center" style="padding: 0;" src="https://api.lanyard.rest/v1/users/917913229668274186" />
+        <img align="center" style="padding: 0;" src="https://lanyard.cnrad.dev/api/917913229668274186?showDisplayName=false&theme=dark&idleMessage=tastes%20like%20picasso%2C%20act%20like%20loco" />
       </a>
     </td>
   </tr>
