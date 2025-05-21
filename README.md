@@ -2,7 +2,7 @@
   <tr>
     <td align="left" style="padding: 0;">
       <a href="https://saweria.co/hanmetaforce">
-        <img align="center" style="padding: 0;" src="https://komarev.com/ghpvc/?username=theonlyhanss&color=84ADEF" alt="GitHub Profile views" />
+        <img align="center" style="padding: 0;" src="https://komarev.com/ghpvc/?username=theonlyhanss&color=lightgrey&labelColor=grey&style=for-the-badge&logo=eye&label=visitor&logoColor=white" alt="GitHub Profile views" />
       </a>
     </td>
   </tr>
