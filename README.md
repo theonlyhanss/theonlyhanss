@@ -25,7 +25,7 @@
         <img width="100%" src="https://lanyard.cnrad.dev/api/917913229668274186" alt="Discord Status"/>
       </a>
       <a href="https://hanmetaforce.my.id" target="_blank">
-        <img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31s6incogp6be7lfavlgh57cswqm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify"/>
+        <img width="100%" src="https://muzyard.vercel.app/widget/917913229668274186" alt="Spotify"/>
       </a>
     </td>
     <td align="center" width="50%">
