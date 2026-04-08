@@ -40,12 +40,12 @@
   <tr>
     <td align="left" style="padding: 0; width: 50%;">
       <a href="#" aria-label="GitHub Stats">
-        <img align="center" style="padding: 0;" src="https://github-readme-stats.vercel.app/api?username=theonlyhanss&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=84ADEF&hide_title=true&count_private=true" alt="GitHub Statistics"/>
+        <img align="center" style="padding: 0;" src="https://github-readme-stats-fast.vercel.app/api?username=theonlyhanss&show_icons=true&theme=dark" alt="GitHub Statistics"/>
       </a>
     </td>
     <td align="center" style="padding: 0; width: 50%;">
       <a href="#" aria-label="Top Languages">
-        <img align="center" style="padding: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theonlyhanss&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" alt="Top Programming Languages"/>
+        <img align="center" style="padding: 0;" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=theonlyhanss&layout=compact&theme=dark" alt="Top Programming Languages"/>
       </a>
     </td>
   </tr>
